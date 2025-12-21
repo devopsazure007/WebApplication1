@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/AswadTechno/DevProject/_apis/build/status%2Fdevopsazure007.WebApplication1%20(6)?branchName=master)](https://dev.azure.com/AswadTechno/DevProject/_build/latest?definitionId=6&branchName=master)
